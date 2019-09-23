@@ -1,0 +1,1 @@
+Reference:  Xingjian Li, Jun Fang, Wen Cheng, Huiping Duan, Zhi Chen, and Hongbin Li, "Intelligent Power Control for Spectrum Sharing in Cognitive Radios: A Deep Reinforcement Learning Approach," was accepted by IEEE Access, May 2018.
